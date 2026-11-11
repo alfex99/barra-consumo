@@ -1,0 +1,6 @@
+{
+  "name": "barra-consumo",
+  "version": "0.1.0",
+  "description": "Barra sobre el cuadro de texto con lo gastado y lo que queda de cada límite de uso de Claude",
+  "types": "./types/index.d.ts"
+}
